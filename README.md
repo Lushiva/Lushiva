@@ -1,7 +1,7 @@
 <h1>Hay! Hallo!</h1>
 
 
-<p>Welcome to my github! </br> I'm Asifa Ahmad, Student Computer Science and Network Engineering at Vocational High School.</p>
+<p>Welcome to my github! </br> I'm Asifa Ahmad, Student Computer Science and Informatic Engineering at STIMIK Tunas Bangsa Banjarnegara.</p>
 <h3>For now learning about</h3>
 <p>
   
@@ -11,7 +11,7 @@
  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
- ![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
 </p>
 
