@@ -1,4 +1,4 @@
-<h1>Hay! Hallo!</h1>
+<h1>Hi! Hallo!</h1>
 
 
 <p>Welcome to my github! </br> I'm Asifa Ahmad, Student Computer Science and Informatic Engineering at STIMIK Tunas Bangsa Banjarnegara.</p>
