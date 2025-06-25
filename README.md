@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Asifa Ahmad</h1>
-<h3 align="center">"Git commit -m 'Fix bug'
-Git commit -m 'Fix fix bug'
-Git commit -m 'Fix fix fix bug'
-...
-Git push --force 🚀"</h3>
+<h3 align="center">"Git commit -m 'Fix bug'</h3>
+<h3 align="center">Git commit -m 'Fix fix bug'</h3>
+<h3 align="center">Git commit -m 'Fix fix fix bug'</h3>
+<h3 align="center">...</h3>
+<h3 align="center">Git push --force 🚀"</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Learning+and+Building!" alt="Typing SVG" />
